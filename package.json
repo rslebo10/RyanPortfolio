@@ -1,0 +1,17 @@
+{
+  "name": "ryantheme",
+  "version": "1.0.0",
+  "description": "Ryan's portfolio theme.",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/rslebo10/RyanPortfolio.git"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sass": "^1.0.0",
+    "load-grunt-config": "^0.17.1",
+    "load-grunt-tasks": "^3.2.0"
+  }
+}
